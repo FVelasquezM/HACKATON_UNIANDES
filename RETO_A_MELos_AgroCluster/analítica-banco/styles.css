@@ -1,0 +1,23 @@
+.viz {
+  margin-right: 6%;
+  margin-left: 6%;
+  font-family: 'Sunflower', sans-serif;
+  font-size: 25px;
+}
+.fondoDash{
+  background-color: white;
+}
+.dash{
+  margin-right: 6%;
+  margin-left: 6%;
+  font-family: 'Sunflower', sans-serif;
+  font-size: 25px;
+  height: : 75%;
+}
+.container{
+  background-color: white;
+}
+.tittle{
+  text-align: center;
+  font-family: 'Abril Fatface', cursive;
+}

@@ -1,0 +1,37 @@
+.imagen {
+  height: 150px;
+}
+
+.titulo {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.card-header {
+  background-color: #73b32467;
+}
+.margenes {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.estiloTableu1 {
+  position: relative;
+}
+
+.estiloTableu2 {
+  border: none;
+}
+
+.estiloTableu3 {
+  display: none;
+}
+
+.graficaTableau {
+  height: 300px;
+}
+
+.margen {
+  margin-top: 15px;
+  margin-bottom: 5px;
+}

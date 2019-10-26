@@ -1,0 +1,35 @@
+.fondoVerde {
+  padding: 0;
+  background-color: rgba(115, 179, 36, 0.13);
+  height: 100vh;
+}
+
+.listaTitulos {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.item {
+  font-size: 20px;
+  padding: 20px;
+}
+
+.item:hover {
+  background: #72b324;
+  font-weight: bold;
+  color: white;
+}
+
+.selected {
+  font-size: 20px;
+  padding: 20px;
+  background: #72b324;
+  font-weight: bold;
+  color: white;
+}
+
+h1 {
+  padding: 20px;
+  font-size: 25px;
+}
